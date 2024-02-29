@@ -1,13 +1,13 @@
 # E-Commerce-Data-Analysis-Project
-[Bike Sharing Data Dashboard Streamlit App](https://dashboard-bike-share-nik.streamlit.app/)
+[E-Commerce Dashboard Data Collection Analysis](https://adrenalinapprizal-dashboard-main-dashboard-yxxw0p.streamlit.app/)
 
 ## Overview
 Proyek data analisis e-commerce ini merupakan sebuah proyek yang bertujuan untuk menganalisis data, merapihkan data, dan memvisualisasikan data yang berfokus pada data publik e-commerce.
 
 ## Installation
-1. Kloning repositori ini:
+1. Kloning repositori berikut:
 ```
-git clone 
+git clone https://github.com/AdrenalinApprizal/dashboard.git
 ```
 2. Install Package Python yang diperlukan dengan menjalankannya:
 ```
@@ -23,5 +23,5 @@ pip install pandas matplotlib seaborn jupyter streamlit
 
 ## Run steamlit app
 ```
-streamlit run streamlit_app.py
+streamlit run main_dashboard.py
 ```
